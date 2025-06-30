@@ -2,7 +2,7 @@
 
 > Spoofy : A Windows Mac Address Swapper Based On Python 3 with Ctk GUI Interface
 
-![Banner](./banner.png) <!-- Remplace avec le vrai chemin de ton screenshot -->
+![Banner](./Banner.png) <!-- Remplace avec le vrai chemin de ton screenshot -->
 
 
 ---
