@@ -4,7 +4,9 @@
 
 ![Spoofy GUI Screenshot](./preview.png) <!-- Remplace avec le vrai chemin de ton screenshot -->
 
+
 ---
+
 
 ## 🧠 What is Spoofy?
 
@@ -13,7 +15,9 @@ It features a modern GUI built with `CustomTkinter`, clear interface selection, 
 
 Whether you're testing network configurations or seeking a bit of anonymity, Spoofy gets the job done — cleanly and quickly.
 
+
 ---
+
 
 ## ✨ Features
 
@@ -22,6 +26,7 @@ Whether you're testing network configurations or seeking a bit of anonymity, Spo
 - 💡 Live feedback in the console area
 - 🌙 Dark mode aesthetic
 - 🛠 Admin rights check and warning
+
   
 ---
 
@@ -33,11 +38,11 @@ Whether you're testing network configurations or seeking a bit of anonymity, Spo
    ```bash
    git clone https://github.com/0xDevSh3ll/Spoofy.git
    ```
-2.**Move Into The Repo Directory**:
-```bash
-   cd spoofy
-```
-3.**Use The Batch Builder**:
-```bash
-   start ./EzBuild.bat
-```
+2. **Move Into The Repo Directory**:
+  ```bash
+     cd spoofy
+  ```
+3. **Use The Batch Builder**:
+  ```bash
+     start ./EzBuild.bat
+  ```
