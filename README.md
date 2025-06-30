@@ -39,10 +39,10 @@ Whether you're testing network configurations or seeking a bit of anonymity, Spo
    git clone https://github.com/0xDevSh3ll/Spoofy.git
    ```
 2. **Move Into The Repo Directory**:
-  ```bash
-     cd spoofy
-  ```
+   ```bash
+   cd spoofy
+   ```
 3. **Use The Batch Builder**:
-  ```bash
-     start ./EzBuild.bat
-  ```
+   ```bash
+   start ./EzBuild.bat
+   ```
